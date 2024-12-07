@@ -1,1 +1,1 @@
-# image-slider-1
+# image-slider-masamune
